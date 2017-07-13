@@ -1,0 +1,5 @@
+body{margin:0;}
+
+.table{display:table; position:absolute; height:100%; width:100%;text-align:center;}
+.table-cell {display: table-cell;vertical-align: middle;}
+.counter{font-size: 3em;}
